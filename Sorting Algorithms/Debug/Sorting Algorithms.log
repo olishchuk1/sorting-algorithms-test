@@ -1,0 +1,3 @@
+﻿  sortings.cpp
+e:\programing\c++\sorting algorithms\sorting algorithms\sortings.cpp(448): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sorting Algorithms.vcxproj -> E:\programing\C++\Sorting Algorithms\Debug\Sorting Algorithms.exe
